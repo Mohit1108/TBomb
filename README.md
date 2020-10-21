@@ -51,93 +51,10 @@ To use the bomber type the following commands in Termux:
 ```
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/Mohit1108/TBomb.git
 cd TBomb
 chmod +x TBomb.sh
 ./TBomb.sh
 ```
-
-### > For Linux:
-
-**Notice:** 
-
-git installation methods are not universal and do differ between distributions,
-so, installing git as per instructions below may not work.
-Please check out how to install `git` for your Linux distribution.
-Commands below provide instructions for Debian-based systems.
-
-To use the bomber type the following commands in Linux terminal:
-```
-sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
-sudo bash TBomb.sh
-```
-
-### > For macOS:
-
-To use the bomber type the following commands in macOS terminal:
-```
-# Install Brew: 
-
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-# Install dependencies:
-
-brew install git
-brew install python3
-sudo easy_install pip
-sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod +x TBomb.sh
-
-# Missing Tools on MacOS
-
-Toilet cannot be installed yet. But TBomb does still work.
-
-# Run TBomb:
-
-sudo bash TBomb.sh
-```
-
-## Demontrative Video:
-
-- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
-- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
-
-## CONTRIBUTORS:
-
-- **SpeedX**<br>
-[-] Mail At: ggspeedx29@gmail.com
-
-- **DarkestEntropy**<br>
-[-] Check At: https://github.com/darkestentropy
-
-- **The Black Hacker Roxstar**<br>
-
-- **Rieltar**<br>
-[-] Ping At: https://t.me/RieltarReborn
-
-- **0n1cOn3 (Stefan)**<br>
-[-] Mail At: 0n1cOn3@gmx.ch
-
-## Donators:
-
-**[@] 34D30Y ( 34db0y@protonmail.com  )**
-
-**[@] SC AMAN**
-
-# CONTACT ME:
-
-Feel Free To Open An Issue...
-
-```
-                 Mail: ggspeedx29@gmail.com<br>
-       YouTube Channel: https://www.youtube.com/c/GyanaTech
-```
-
-<a href="https://www.youtube.com/c/GyanaTech">Check Out My YouTube Channel</a>
 
 
